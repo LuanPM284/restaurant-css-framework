@@ -34,6 +34,7 @@ I also had the opportunity to test the page deployment on github pages, had some
 
 Connected my index.html with the menu.html.
 
+Here is the URL for the [background image](https://unsplash.com/pt-br/fotografias/ilustracao-da-galaxia-roxa-e-preta-uXchDIKs4qI).
 Asked GPT for a list if menu items that would appear on the fictionnal space restaurant and added them to the page using a [group list](https://getbootstrap.com/docs/5.0/components/list-group/).
 
 As asked I also added [badges](https://getbootstrap.com/docs/5.0/components/badge/), they follow the comedy of the whole piece, more informative than really necessary.
