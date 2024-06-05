@@ -1,0 +1,51 @@
+body {
+    background-image: url(/assets/images/jeremy-thomas-E0AHdsENmDg-unsplash.jpg);
+    background-size: contain;
+}
+
+/* nav {
+    background-image: url(/assets/images/jake-weirick-Q_RBVFFXR_g-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+#bg-image {
+    background-image: url(/assets/images/nasa-Yj1M5riCKk4-unsplash.jpg);
+    /* https://unsplash.com/pt-br/fotografias/o-ceu-noturno-esta-cheio-de-estrelas-Q_RBVFFXR_g */
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.navbar .brand {
+    max-height: 40px;
+    max-width: 30%;
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+a {}
+
+/* 
+.img_earth {
+    source:https://unsplash.com/pt-br/fotografias/earth-with-clouds-above-the-african-continent-vhSz50AaFAs
+    background-image: url(/assets/images/nasa-vhSz50AaFAs-unsplash.jpg);
+    background-repeat: no-repeat;
+    source:https://unsplash.com/pt-br/fotografias/fotografia-de-lua-cheia-uIf6H1or1nE
+    source:https://unsplash.com/pt-br/fotografias/azul-e-roxo-galaxia-papel-de-parede-digital-E0AHdsENmDg
+} */
+
+img {
+    border: 0;
+    background: transparent;
+}
+
+.welcome_message {
+    color: white;
+    margin: 0;
+    border: 0;
+    background-color: black;
+    justify-content: center;
+}
