@@ -1,8 +1,7 @@
 body {
-    background-image: url(./assets/images/jeremy-thomas-E0AHdsENmDg-unsplash.jpg);
+    background-image: url(/assets/images/jeremy-thomas-E0AHdsENmDg-unsplash.jpg);
     background-size: contain;
 }
-
 
 .navbar .brand {
     max-height: 40px;
