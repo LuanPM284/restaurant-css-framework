@@ -9,16 +9,36 @@ At the end of this challenge you should have improved your:
 
 - placement of element with Bootstrap
 
+- The basic idea is a fantastic type restaurant that is located outside of earth and serves any species lost to space.
+
 ### The mission
 [x] Create a repository called restaurant-css-framework in which you must realise a window web page for a restaurant. The franchise is fictive, but the type of food (burger, pizza, asian, …​) is your choice.
 
 [x] The website must be responsive, at least for small and medium screens. It must at least have five accessible pages: welcome, menu, pictures, restaurants and contact.
 
 #### Welcome
-[] A page with one Jumbotron and two panels to show news (promo, events, etc…​).
+[x] A page with one Jumbotron and two panels to show news (promo, events, etc…​).
+
+
+The navbar was picked from [bootstrap documentation](https://getbootstrap.com/docs/5.0/components/navbar/), I added two exemples together in order to have the logo as well as the different page links.
+
+Jumbotron was picked from [here](https://getbootstrap.com/docs/5.3/examples/jumbotron/), it was after modified to fit my needs.
+
+The images were download using the site [unsplash](https://unsplash.com/), and I tried to always keep the original url.
+Given the size of the images I had to use small ones for the two bottom panels, so it's visible in a correct way.
+
+I also had the opportunity to test the page deployment on github pages, had some strugles with no images appearing.
 
 #### Menu
-[] A page with the restaurant menu in the form of a grouped list with badges.
+[x] A page with the restaurant menu in the form of a grouped list with badges.
+
+Connected my index.html with the menu.html.
+
+Asked GPT for a list if menu items that would appear on the fictionnal space restaurant and added them to the page using a [group list](https://getbootstrap.com/docs/5.0/components/list-group/).
+
+As asked I also added [badges](https://getbootstrap.com/docs/5.0/components/badge/), they follow the comedy of the whole piece, more informative than really necessary.
+
+Being Bootstrap it isn't hard to find somethind and modify the necessaty so it fits the asked.
 
 #### Pictures
 []  A page with a gallery of minimum 10 pictures and a pagination (3 photos per page).
