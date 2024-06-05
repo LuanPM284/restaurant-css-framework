@@ -32,18 +32,18 @@ At the end of this challenge you should have improved your:
 If you want to make an even more complex website feel free to try new things and make it as beautiful as possible.
 
 ### Instructions
-[] create the repository
+[x] create the repository
 
-[] write a good README
+[x] write a good README
 
-[] don’t use a pre-made theme
+[x] don’t use a pre-made theme
 
-[] mention a description and the website URL on the top of the repo
+[x] mention a description and the website URL on the top of the repo
 
 [] use ONLY royalty-free pictures AND credit in your readme the website where the pictures are from
 
 ### Advices
-[] Read the instructions well.
+[x] Read the instructions well.
 
 [] Take time to prepare (prototype, content, pictures, …​).
 
