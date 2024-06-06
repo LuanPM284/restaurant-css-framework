@@ -21,7 +21,7 @@ At the end of this challenge you should have improved your:
 [] A page with the restaurant menu in the form of a grouped list with badges.
 
 #### Pictures
-[]  A page with a gallery of minimum 10 pictures and a pagination (3 photos per page).
+[]  A page with a gallery of minimum 10 pictures and a pagination (3 photos per page).  
 
 #### Restaurant
 [] A page about the restaurants (it’s a franchise) with its addresses, a map, and different schedules.
